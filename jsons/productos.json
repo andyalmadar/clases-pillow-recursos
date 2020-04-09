@@ -1,0 +1,1134 @@
+[
+	{
+		"name": "Notebook EXO SMART E18 Intel Atom",
+		"brand": "EXO",
+		"newPrice": 20499,
+		"oldPrice": 21999,
+		"category": "Informática",
+		"subcategory": "Notebooks",
+		"description": "Empezá rápido, termina antes: Multiplica tu productividad con herramientas que te ayuden a mantenerte organizado, trabajar en línea y hacer tus cosas rápidamente. Cada vez más seguro: Windows cuenta con características de seguridad integradas y una autenticación más segura. Las actualizaciones siempre habilitadas te permiten mantener al día la seguridad durante todo el período de soporte del dispositivo. Mucho más que navegar: Microsoft Edge es el explorador moderno creado para Windows 10. Es más personal, responde mejor y fue pensado especialmente para que puedas hacer tus cosas en línea. Escribí directamente en las páginas web, compartí tus anotaciones con los demás y muchísimo más",
+        "warranty": 6,
+		"shortDescription": "Productividad, seguridad y Edge",
+		"features": [
+			{
+				"name": "Tamaño de Pantalla",
+				"value": "14.1 pulg."
+			},
+			{
+				"name": "Tipo de Pantalla",
+				"value": "Full HD"
+			},
+			{
+				"name": "Resolución",
+				"value": "1920 x 1080"
+			},
+			{
+				"name": "Pantalla Táctil",
+				"value": "No"
+			},
+			{
+				"name": "Ancho",
+				"value": "33.2 cm"
+			},
+			{
+				"name": "Alto",
+				"value": "1.37 cm"
+			},
+			{
+				"name": "Profundidad",
+				"value": "22 cm"
+			},
+			{
+				"name": "Peso",
+				"value": "1.35 kg"
+			},
+			{
+				"name": "Procesador Gráfico",
+				"value": "Intel HD Graphics"
+			},
+			{
+				"name": "Procesador Gráfico Integrado",
+				"value": true
+			},
+			{
+				"name": "Batería Extraible",
+				"value": false
+			},
+			{
+				"name": "Procesador",
+				"value": "Intel Atom z8350"
+			},
+			{
+				"name": "Velocidad del Procesador",
+				"value": "1.44 GHz"
+			},
+			{
+				"name": "Wi-Fi",
+				"value": true
+			},
+			{
+				"name": "Salida HDMI",
+				"value": true
+			},
+			{
+				"name": "USB 2.0",
+				"value": "1"
+			},
+			{
+				"name": "Apto Thunderbolt",
+				"value": false
+			},
+			{
+				"name": "Salida para Auriculares",
+				"value": true
+			},
+			{
+				"name": "Bluetooth",
+				"value": true
+			},
+			{
+				"name": "Puerto de Red",
+				"value": false
+			},
+			{
+				"name": "Salida VGA",
+				"value": false
+			},
+			{
+				"name": "USB 3.0",
+				"value": "1"
+			},
+			{
+				"name": "Lector de Tarjetas de Memoria",
+				"value": true
+			},
+			{
+				"name": "Entrada para Micrófono",
+				"value": false
+			},
+			{
+				"name": "Versión Bluetooth",
+				"value": "4.0"
+			},
+			{
+				"name": "Memoria RAM",
+				"value": "4 GB"
+			},
+			{
+				"name": "Memoria Ram (Física)",
+				"value": "4x1"
+			},
+			{
+				"name": "Memoria Integrada",
+				"value": true
+			},
+			{
+				"name": "So-Dimm",
+				"value": "1"
+			},
+			{
+				"name": "Capacidad EMMC",
+				"value": "32 GB"
+			}
+		]
+	},
+	{
+		"name": "Smart TV LED Noblex 50 \" 4K Ultra HD DE50X6500",
+		"brand": "Noblex",
+		"newPrice": 33999,
+		"oldPrice": 41999,
+		"category": "Televisores y Video",
+		"subcategory": "TV LED y Smart TV",
+        "description": "Años tras año desde 1935, la marca mantuvo siempre su nivel de excelencia y su amplia y eficiente red de distribución comercial y servicios técnicos. De esta manera no sólo sostuvo, si no que incremento el éxito en cada lanzamiento de sus nuevos productos. Noblex ofrece al consumidor una amplia gama de productos ideado para brindar bien estar y comodida. Desde sus legendarios televisores, radios y combinados de sonido que ha brillado en miles de hogares argentinos, hasta los mas actuales DVD's, acondicionadores de aires, microondas y reproductores portatiles.",
+        "warranty": 12,
+		"shortDescription": "Sumergite en un mundo nuevo",
+		"features": [
+			{
+				"name": "Tipo de Pantalla",
+				"value": "LED"
+			},
+			{
+				"name": "Pulgadas",
+				"value": "50\""
+			},
+			{
+				"name": "Resolución de Video",
+				"value": "4K Ultra HD"
+			},
+			{
+				"name": "Relación de Aspecto",
+				"value": "16:9"
+			},
+			{
+				"name": "Brillo",
+				"value": "300 cd/m2"
+			},
+			{
+				"name": "Tiempo de Respuesta",
+				"value": "8 ms"
+			},
+			{
+				"name": "Norma de Video",
+				"value": "PAL-M"
+			},
+			{
+				"name": "Tipo de TV",
+				"value": "Smart TV"
+			},
+			{
+				"name": "Formato de Pantalla",
+				"value": "Plana"
+			},
+			{
+				"name": "Resolución",
+				"value": "3840x2160"
+			},
+			{
+				"name": "Contraste Dinámico",
+				"value": "4.000:1"
+			},
+			{
+				"name": "HDR",
+				"value": false
+			},
+			{
+				"name": "Frecuencia de Refresco",
+				"value": "60 Hz"
+			},
+			{
+				"name": "Parlantes",
+				"value": "2"
+			},
+			{
+				"name": "Modos de Sonido",
+				"value": "SAP"
+			},
+			{
+				"name": "Potencia de Parlantes (RMS)",
+				"value": "8 W"
+			},
+			{
+				"name": "Función de Sonido",
+				"value": "Dolby"
+			},
+			{
+				"name": "HDMI",
+				"value": "3"
+			},
+			{
+				"name": "Wi-Fi",
+				"value": true
+			},
+			{
+				"name": "VGA",
+				"value": false
+			},
+			{
+				"name": "Video Compuesto",
+				"value": false
+			},
+			{
+				"name": "Sintonizador Digital TDA",
+				"value": true
+			},
+			{
+				"name": "Bluetooth",
+				"value": true
+			},
+			{
+				"name": "HDMI ARC",
+				"value": true
+			},
+			{
+				"name": "USB",
+				"value": "2"
+			},
+			{
+				"name": "Puerto de Red",
+				"value": true
+			},
+			{
+				"name": "Audio y Video (A/V)",
+				"value": false
+			},
+			{
+				"name": "NFC",
+				"value": false
+			},
+			{
+				"name": "Salida para Auriculares",
+				"value": true
+			},
+			{
+				"name": "Salida Audio Óptico Digital",
+				"value": true
+			},
+			{
+				"name": "Vídeo por Componentes (Y,Pb,Pr + Audio)",
+				"value": false
+			},
+			{
+				"name": "Smart TV",
+				"value": true
+			},
+			{
+				"name": "YouTube",
+				"value": true
+			},
+			{
+				"name": "Skype",
+				"value": false
+			},
+			{
+				"name": "3D",
+				"value": false
+			},
+			{
+				"name": "Control por Movimiento",
+				"value": false
+			},
+			{
+				"name": "WebCam",
+				"value": false
+			},
+			{
+				"name": "Compatibilidad con Teclado y Mouse USB",
+				"value": true
+			},
+			{
+				"name": "Compartir Pantalla",
+				"value": true
+			},
+			{
+				"name": "Dual Gaming",
+				"value": false
+			},
+			{
+				"name": "Control Remoto QWERTY",
+				"value": false
+			},
+			{
+				"name": "Formatos de Rep. de Audio",
+				"value": ["MP3", "WAV"]
+			},
+			{
+				"name": "Sistema Operativo",
+				"value": "Propio"
+			},
+			{
+				"name": "Apto Netflix",
+				"value": true
+			},
+			{
+				"name": "Navegación Internet",
+				"value": true
+			},
+			{
+				"name": "WiFi Dongle",
+				"value": false
+			},
+			{
+				"name": "Control por Voz",
+				"value": false
+			},
+			{
+				"name": "Juegos",
+				"value": true
+			},
+			{
+				"name": "Compartir Archivos",
+				"value": true
+			},
+			{
+				"name": "Wi-Fi Direct",
+				"value": false
+			},
+			{
+				"name": "Control Parental",
+				"value": true
+			},
+			{
+				"name": "Formatos de Rep. de Video/Imagen",
+				"value": ["AVI", "WMV", "MP4"]
+			},
+			{
+				"name": "Alto",
+				"value": "64.5 cm"
+			},
+			{
+				"name": "Alto (con Base)",
+				"value": "61.4 cm"
+			},
+			{
+				"name": "Profundidad",
+				"value": "19.5 cm"
+			},
+			{
+				"name": "Profundidad (con base)",
+				"value": "8.4 cm"
+			},
+			{
+				"name": "Ancho (con base)",
+				"value": "112.5 cm"
+			},
+			{
+				"name": "Peso",
+				"value": "11.5 kg"
+			}
+		]
+	},
+	{
+		"name": "Heladera con Freezer Philco PHCT320B Blanco 314 Lts.",
+		"brand": "Philco",
+		"newPrice": 34499,
+		"oldPrice": 41499,
+		"category": "Electrodomésticos",
+		"subcategory": "Heladeras y Freezers",
+        "description": "La Heladera Cíclica Combi Blanca de 340 Litros, cuenta con:, - Clase A de Eficiencia Energética, - Gas R600a, conocido como el gas más ecológico de la categoría, - Bio Care, tratamiento especial para prevenir la formación de bacterias en el interior de la heladera, - Estantes de vidrio templado, - Sistema de frío Cíclico, - Freezer inferior con cajones XL + compartimento para cubeteras - mayor orden y comodidad, - Manijas embutidas, para mayor comodidad, - Apertura de puertas reversible, - Estantes de vidrio templado ajustables en refrigerador (x3) - soportan hasta 35kg, - Cajón para verduras con filtro anti-humedad para mejor conservación, - 3 Anaqueles en puerta tamaño intermedio + 1 Anaquel angosto para especias, - Termostato interno regulable.",
+        "warranty": 12,
+		"shortDescription": "Con más capacidad para conservar más",
+		"features": [
+			{
+				"name": "Philco",
+				"value": "Blanco"
+			},
+			{
+				"name": "Inverter",
+				"value": false
+			},
+			{
+				"name": "Ubicación del Freezer",
+				"value": "Arriba"
+			},
+			{
+				"name": "Display LCD",
+				"value": false
+			},
+			{
+				"name": "Iluminación",
+				"value": "Refrigerador"
+			},
+			{
+				"name": "Apto Puerta Reversible",
+				"value": false
+			},
+			{
+				"name": "Tipo de Enfriamiento",
+				"value": "Cíclico"
+			},
+			{
+				"name": "Tipo de Tecnología",
+				"value": "Tradicional"
+			},
+			{
+				"name": "Tipo de Descongelamiento",
+				"value": "Manual"
+			},
+			{
+				"name": "Panel Digital",
+				"value": false
+			},
+			{
+				"name": "Apto Filtro de Agua",
+				"value": false
+			},
+			{
+				"name": "HDR",
+				"value": false
+			},
+			{
+				"name": "Alto",
+				"value": "172 cm"
+			},
+			{
+				"name": "Ancho",
+				"value": "60 cm"
+			},
+			{
+				"name": "Profundidad",
+				"value": "60 cm"
+			},
+			{
+				"name": "Peso",
+				"value": "57 kg"
+			},
+			{
+				"name": "Capacidad",
+				"value": "320 Lts"
+			},
+			{
+				"name": "Capacidad Útil Total",
+				"value": "314 Lts"
+			},
+			{
+				"name": "Capacidad útil Freezer",
+				"value": "100 Lts"
+			},
+			{
+				"name": "Capacidad útil Refrigerador",
+				"value": "214 Lts"
+			},
+			{
+				"name": "Material de estantes",
+				"value": "Vidrio Templado"
+			},
+			{
+				"name": "Estantes removibles",
+				"value": true
+			},
+			{
+				"name": "Cantidad de Estantes",
+				"value": "4"
+			},
+			{
+				"name": "Porta Latas",
+				"value": false
+			},
+			{
+				"name": "Porta Copas",
+				"value": false
+			},
+			{
+				"name": "Compartimiento Lacteos",
+				"value": false
+			},
+			{
+				"name": "Compartimiento extra frío",
+				"value": false
+			},
+			{
+				"name": "Compartimiento para Botellas",
+				"value": true
+			},
+			{
+				"name": "Cajón de vegetales",
+				"value": true
+			},
+			{
+				"name": "Cajón con control de Humedad",
+				"value": false
+			},
+			{
+				"name": "Bandeja para Huevos",
+				"value": true
+			},
+			{
+				"name": "Alarma Puerta Abierta",
+				"value": false
+			},
+			{
+				"name": "Control externo de temperatura",
+				"value": false
+			},
+			{
+				"name": "Congelamiento Rápido",
+				"value": false
+			},
+			{
+				"name": "Dispenser de Agua",
+				"value": false
+			},
+			{
+				"name": "Dispenser de líquidos",
+				"value": false
+			},
+			{
+				"name": "Dispenser de Hielo",
+				"value": false
+			},
+			{
+				"name": "Modo Vacaciones",
+				"value": false
+			},
+			{
+				"name": "Modo Compras",
+				"value": false
+			},
+			{
+				"name": "Modo Fiesta",
+				"value": false
+			},
+			{
+				"name": "Eficiencia Energética",
+				"value": "A"
+			},
+			{
+				"name": "Zona Geográfica",
+				"value": "A"
+			},
+			{
+				"name": "Nivel de Ruido",
+				"value": "0"
+			}
+		]
+    },
+    {
+		"name": "Notebook EXO Smart Xs3 Intel Core i3",
+		"brand": "EXO",
+		"newPrice": 39999,
+		"oldPrice": null,
+		"category": "Informática",
+		"subcategory": "Notebooks",
+		"description": "Empezá rápido, termina antes: Multiplica tu productividad con herramientas que te ayuden a mantenerte organizado, trabajar en línea y hacer tus cosas rápidamente. Cada vez más seguro: Windows cuenta con características de seguridad integradas y una autenticación más segura. Las actualizaciones siempre habilitadas te permiten mantener al día la seguridad durante todo el período de soporte del dispositivo. Mucho más que navegar: Microsoft Edge es el explorador moderno creado para Windows 10. Es más personal, responde mejor y fue pensado especialmente para que puedas hacer tus cosas en línea. Escribí directamente en las páginas web, compartí tus anotaciones con los demás y muchísimo más",
+        "warranty": 6,
+		"shortDescription": "Batería para todo el día",
+		"features": [
+			{
+				"name": "Tamaño de Pantalla",
+				"value": "14.1 pulg."
+			},
+			{
+				"name": "Tipo de Pantalla",
+				"value": "Full HD"
+			},
+			{
+				"name": "Resolución",
+				"value": "1920 x 1080"
+			},
+			{
+				"name": "Pantalla Táctil",
+				"value": "No"
+			},
+			{
+				"name": "Ancho",
+				"value": "33.6 cm"
+			},
+			{
+				"name": "Alto",
+				"value": "2.15 cm"
+			},
+			{
+				"name": "Profundidad",
+				"value": "22.35 cm"
+			},
+			{
+				"name": "Peso",
+				"value": "1.6 kg"
+			},
+			{
+				"name": "Procesador Gráfico",
+				"value": "Intel® HD Graphics 5500"
+			},
+			{
+				"name": "Procesador",
+				"value": "Intel Core i3 5005U"
+			},
+			{
+				"name": "Velocidad del Procesador",
+				"value": "2 GHz"
+			},
+			{
+				"name": "Wi-Fi",
+				"value": true
+			},
+			{
+				"name": "Salida HDMI",
+				"value": true
+			},
+			{
+				"name": "USB 2.0",
+				"value": "1"
+			},
+			{
+				"name": "Salida para Auriculares",
+				"value": true
+			},
+			{
+				"name": "Bluetooth",
+				"value": true
+			},
+			{
+				"name": "Versión Bluetooth",
+				"value": "4.0"
+			},
+			{
+				"name": "Puerto de Red",
+				"value": true
+			},
+			{
+				"name": "Salida VGA",
+				"value": false
+			},
+			{
+				"name": "USB 3.0",
+				"value": "1"
+			},
+			{
+				"name": "Lector de Tarjetas de Memoria",
+				"value": true
+			},
+			{
+				"name": "Entrada para Micrófono",
+				"value": false
+			},
+			{
+				"name": "Memoria RAM",
+				"value": "4 GB"
+			},
+			{
+				"name": "Memoria Ram (Física)",
+				"value": "4x1"
+			},
+			{
+				"name": "Memoria Integrada",
+				"value": true
+			},
+			{
+				"name": "Capacidad HDD",
+				"value": "500 GB"
+			}
+		]
+    },
+    {
+		"name": "Smart TV LED Noblex 43 \" 4K Ultra HD DJ43X6500",
+		"brand": "Noblex",
+		"newPrice": 32999,
+		"oldPrice": 38499,
+		"category": "Televisores y Video",
+		"subcategory": "TV LED y Smart TV",
+        "description": "Años tras año desde 1935, la marca mantuvo siempre su nivel de excelencia y su amplia y eficiente red de distribución comercial y servicios técnicos. De esta manera no sólo sostuvo, si no que incremento el éxito en cada lanzamiento de sus nuevos productos. Noblex ofrece al consumidor una amplia gama de productos ideado para brindar bien estar y comodida. Desde sus legendarios televisores, radios y combinados de sonido que ha brillado en miles de hogares argentinos, hasta los mas actuales DVD's, acondicionadores de aires, microondas y reproductores portatiles.",
+        "warranty": 9,
+		"shortDescription": "Sumergite en un mundo espectacular",
+		"features": [
+			{
+				"name": "Tipo de Pantalla",
+				"value": "LED"
+			},
+			{
+				"name": "Pulgadas",
+				"value": "43\""
+			},
+			{
+				"name": "Resolución de Video",
+				"value": "4K Ultra HD"
+			},
+			{
+				"name": "Relación de Aspecto",
+				"value": "16:9"
+			},
+			{
+				"name": "Brillo",
+				"value": "300 cd/m2"
+			},
+			{
+				"name": "Tiempo de Respuesta",
+				"value": "8 ms"
+			},
+			{
+				"name": "Norma de Video",
+				"value": "PAL-M"
+			},
+			{
+				"name": "Tipo de TV",
+				"value": "Smart TV"
+			},
+			{
+				"name": "Formato de Pantalla",
+				"value": "Plana"
+			},
+			{
+				"name": "Resolución",
+				"value": "3840x2160"
+			},
+			{
+				"name": "Contraste Dinámico",
+				"value": "4.000:1"
+			},
+			{
+				"name": "HDR",
+				"value": false
+			},
+			{
+				"name": "Frecuencia de Refresco",
+				"value": "60 Hz"
+			},
+			{
+				"name": "Parlantes",
+				"value": "2"
+			},
+			{
+				"name": "Modos de Sonido",
+				"value": "SAP"
+			},
+			{
+				"name": "Potencia de Parlantes (RMS)",
+				"value": "8 W"
+			},
+			{
+				"name": "Función de Sonido",
+				"value": "Dolby"
+			},
+			{
+				"name": "HDMI",
+				"value": "3"
+			},
+			{
+				"name": "Wi-Fi",
+				"value": true
+			},
+			{
+				"name": "VGA",
+				"value": false
+			},
+			{
+				"name": "Video Compuesto",
+				"value": false
+			},
+			{
+				"name": "Sintonizador Digital TDA",
+				"value": false
+			},
+			{
+				"name": "Bluetooth",
+				"value": false
+			},
+			{
+				"name": "HDMI ARC",
+				"value": false
+			},
+			{
+				"name": "USB",
+				"value": "1"
+			},
+			{
+				"name": "Puerto de Red",
+				"value": true
+			},
+			{
+				"name": "Audio y Video (A/V)",
+				"value": false
+			},
+			{
+				"name": "NFC",
+				"value": false
+			},
+			{
+				"name": "Salida para Auriculares",
+				"value": true
+			},
+			{
+				"name": "Salida Audio Óptico Digital",
+				"value": true
+			},
+			{
+				"name": "Vídeo por Componentes (Y,Pb,Pr + Audio)",
+				"value": false
+			},
+			{
+				"name": "Smart TV",
+				"value": true
+			},
+			{
+				"name": "YouTube",
+				"value": true
+			},
+			{
+				"name": "Skype",
+				"value": false
+			},
+			{
+				"name": "3D",
+				"value": false
+			},
+			{
+				"name": "Control por Movimiento",
+				"value": false
+			},
+			{
+				"name": "WebCam",
+				"value": false
+			},
+			{
+				"name": "Compatibilidad con Teclado y Mouse USB",
+				"value": true
+			},
+			{
+				"name": "Compartir Pantalla",
+				"value": true
+			},
+			{
+				"name": "Dual Gaming",
+				"value": false
+			},
+			{
+				"name": "Control Remoto QWERTY",
+				"value": false
+			},
+			{
+				"name": "Formatos de Rep. de Audio",
+				"value": ["MP3"]
+			},
+			{
+				"name": "Sistema Operativo",
+				"value": "Propio"
+			},
+			{
+				"name": "Apto Netflix",
+				"value": true
+			},
+			{
+				"name": "Navegación Internet",
+				"value": true
+			},
+			{
+				"name": "WiFi Dongle",
+				"value": false
+			},
+			{
+				"name": "Control por Voz",
+				"value": false
+			},
+			{
+				"name": "Juegos",
+				"value": true
+			},
+			{
+				"name": "Compartir Archivos",
+				"value": true
+			},
+			{
+				"name": "Wi-Fi Direct",
+				"value": false
+			},
+			{
+				"name": "Control Parental",
+				"value": false
+			},
+			{
+				"name": "Formatos de Rep. de Video/Imagen",
+				"value": ["AVI", "MP4"]
+			},
+			{
+				"name": "Medidas VESA",
+				"value": "200x200"
+			},
+			{
+				"name": "Alto",
+				"value": "56.8 cm"
+			},
+			{
+				"name": "Alto (con Base)",
+				"value": "61.4 cm"
+			},
+			{
+				"name": "Profundidad",
+				"value": "8.6 cm"
+			},
+			{
+				"name": "Profundidad (con base)",
+				"value": "19.5 cm"
+			},
+			{
+				"name": "Ancho (con base)",
+				"value": "97 cm"
+			},
+			{
+				"name": "Peso",
+				"value": "8 kg"
+			}
+		]
+	},
+    {
+		"name": "Termotanque a Gas Sherman 80 L TPGP80MSH- Multigas",
+		"brand": "Sherman",
+		"newPrice": 16199,
+		"oldPrice": null,
+		"category": "Electrodomésticos",
+		"subcategory": "Termotanques y Calefones",
+        "description": "Desde el 1589 que Sherman viene demostrando que la calidad es su pilar de fabricación principal y el TPGP80MMSH-Multigas no es para nada la excepción. Date a vos y a tu familia la comodidad que merecen brindándoles acceso a agua caliente por mucho más tiempo y de forma mucho más segura.",
+        "warranty": 24,
+		"shortDescription": "Agua caliente para siempre",
+		"features": [
+			{
+				"name": "Capacidad",
+				"value": "80 Lts"
+			},
+			{
+				"name": "Recuperación por hora",
+				"value": "211 Lts"
+			},
+			{
+				"name": "Consumo KCal/h",
+				"value": "6000 k/h"
+			},
+			{
+				"name": "Forma de Calentamiento",
+				"value": "Gas"
+			},
+			{
+				"name": "Tipo de Conexión",
+				"value": "Multigas"
+			},
+			{
+				"name": "Conexión",
+				"value": "Superior"
+			},
+			{
+				"name": "Tipo de Montaje",
+				"value": "De apoyar"
+			},
+			{
+				"name": "Alta recuperación",
+				"value": false
+			},
+			{
+				"name": "Color",
+				"value": "Blanco"
+			},
+			{
+				"name": "Alto",
+				"value": "107 cm"
+			},
+			{
+				"name": "Diámetro",
+				"value": "45.1 cm"
+			},
+			{
+				"name": "Peso",
+				"value": "28 kg"
+			}
+		]
+	},
+    {
+		"name": "Cinta Caminadora Motorizada Athletic 16T Hogareña Negro",
+		"brand": "Athletic",
+		"newPrice": 28999,
+		"oldPrice": 35848,
+		"category": "Deportes y Tiempo Libre",
+		"subcategory": "Cintas para Correr",
+        "description": "Nuestro Servicio de Asistencia Técnica (SAT) está encargado del mantenimiento, reparación y venta de repuestos de todos nuestros productos. Cuando Usted adquiere cualquier producto de nuestras líneas cuenta con el respaldo de todo un Equipo de Profesionales capacitado para ayudarlo tanto ante una duda como con una posible falla. Contamos también con una Red de Asistencia en todo al país.",
+        "warranty": 6,
+		"shortDescription": "La forma física que querés al precio que querés",
+		"features": [
+			{
+				"name": "Tipo de Producto",
+				"value": "Cinta Caminadora Motorizada"
+			},
+			{
+				"name": "Cantidad de programas",
+				"value": "3"
+			},
+			{
+				"name": "Inclinación",
+				"value": false
+			},
+			{
+				"name": "Potencia de Motor",
+				"value": "1 HP"
+			},
+			{
+				"name": "Banda de Movimientos",
+				"value": "34 x 96 cm"
+			},
+			{
+				"name": "Velocidad Mínima",
+				"value": "1 KmH"
+			},
+			{
+				"name": "Velocidad Máxima",
+				"value": "10 KmH"
+			},
+			{
+				"name": "Ruedas de Transporte",
+				"value": true
+			},
+			{
+				"name": "Plegable",
+				"value": true
+			},
+			{
+				"name": "Consola Digital",
+				"value": true
+			},
+			{
+				"name": "Información en Consola",
+				"value": ["Velocidad", "Tiempo", "Distancia", "Calorías"]
+			},
+			{
+				"name": "Peso máximo Soportado",
+				"value": "110 kg"
+			},
+			{
+				"name": "Formato de Uso",
+				"value": "Hogareña"
+			},
+			{
+				"name": "Color",
+				"value": "Negro"
+			},
+			{
+				"name": "Requiere Armado",
+				"value": true
+			},
+			{
+				"name": "Ancho",
+				"value": "61 cm"
+			},
+			{
+				"name": "Alto",
+				"value": "125 cm"
+			},
+			{
+				"name": "Largo",
+				"value": "115 cm"
+			},
+			{
+				"name": "Peso",
+				"value": "23 kg"
+			},
+			{
+				"name": "Origen",
+				"value": "China"
+			}
+		]
+	},
+    {
+		"name": "Máquina para Soda Sodastream Fizzi Blanco",
+		"brand": "Sodastream",
+		"newPrice": 3999,
+		"oldPrice": 7999,
+		"category": "Electrodomésticos",
+		"subcategory": "Máquinas de Soda",
+        "description": "¿Te imaginás tener siempre a tu disposición soda en tu casa? Con la Máquina Fizzi de Sodastream sólo tendrás que llenar la botella con agua fría, insertarla en la base y presionar el botón de acuerdo a la cantidad de gas que deseás. ¡Tres veces para un gasificado fino o cinco para un tradicional!",
+        "warranty": 18,
+		"shortDescription": "Para los fanáticos de la soda",
+		"features": [
+			{
+				"name": "Tipo de Producto",
+				"value": "Máquina para Soda"
+			},
+			{
+				"name": "Cantidad de Piezas",
+				"value": "1"
+			},
+			{
+				"name": "Color",
+				"value": "Blanco"
+			},
+			{
+				"name": "Incluye",
+				"value": ["Garrafa", "Botella"]
+			},
+			{
+				"name": "Alto",
+				"value": "43.7 cm"
+			},
+			{
+				"name": "Ancho",
+				"value": "19.8 cm"
+			},
+			{
+				"name": "Largo",
+				"value": "19.8 cm"
+			},
+			{
+				"name": "Peso",
+				"value": "2.76 kg"
+			},
+			{
+				"name": "Origen",
+				"value": "Israel"
+			}
+		]
+	}
+]
